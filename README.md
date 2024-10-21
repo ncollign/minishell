@@ -11,5 +11,10 @@ Que doit gérer notre programme ?
 
 Ordre de processus :
 	- Lire les entrées de l'utilisateur
-  - Fixer un ordre de priorités
-  - Interpréter les commandes et utiliser fork() et execve() pour les exécuter
+	- Fixer un ordre de priorités
+ 	- Interpréter les commandes et utiliser fork() et execve() pour les exécuter
+
+
+
+Prochaine chose à faire :
+	- Lire les entrées de l'utilisateur
